@@ -19,4 +19,5 @@ export class AppComponent {
   text = 'Test';
   text3 = 'test';
   text4 = 'Test';
+  text5 = 'Test';
 }
