@@ -17,4 +17,5 @@ export class AppComponent {
   title = 'Tour of Heroes Edit';
   text2 = 'test';
   text = 'Test';
+  text3 = 'test';
 }
